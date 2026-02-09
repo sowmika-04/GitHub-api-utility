@@ -1,19 +1,46 @@
-# GitHub API Handler
+# GitHub API Utility 📱
 
-> ### Project of the GitHub API handler mobile application
+GitHub API Utility is an Android mobile application built using **Java** that allows users to fetch and view GitHub profile information by simply entering a GitHub username. The app communicates with the **GitHub REST API** and displays user-related data in a clean and user-friendly interface.
 
-- Application is made in Java.
-- In application is used [data binding library](https://developer.android.com/topic/libraries/data-binding).
-- App fetches and displays data about user from [GitHub API](https://docs.github.com/en/rest) by username.
+The project demonstrates the use of **API integration**, **data binding**, and **network-based data handling** in Android applications.
 
-# Installation
+---
 
-To successfully install application you need to have installed [java](https://www.java.com/en/).
+## 🚀 Features
 
-Open folder where you want to have project files, open console and then clone the repository
+- Fetches GitHub user details using a username  
+- Displays public profile information from GitHub  
+- Uses GitHub REST API for real-time data  
+- Implemented using **Java**  
+- Uses **Android Data Binding Library**  
+- Simple and clean UI  
+- Lightweight and easy to understand project structure  
 
-    git clone https://github.com/maciekiwaniuk/github-api-handler
+---
 
-# Application appearance
+## 🛠️ Technologies Used
 
-![](https://github.com/maciekiwaniuk/github-api-handler/raw/main/app/src/main/resources/readme/appearance.gif)
+- Java  
+- Android SDK  
+- GitHub REST API  
+- Data Binding Library  
+- HTTP networking (API calls)  
+
+---
+
+## 📦 Installation
+
+To successfully install and run this application, make sure you have the following installed:
+
+- Java (JDK)
+- Android Studio
+- Android SDK
+
+### Steps to Clone the Repository
+
+1. Open the folder where you want to store the project files  
+2. Open the terminal / command prompt in that folder  
+3. Run the following command:
+
+```bash
+git clone https://github.com/
